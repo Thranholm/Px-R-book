@@ -3,9 +3,6 @@ title: "Welcome"
 format: html
 ---
 
-The book contains different guides on how to use R to set up a workflow
-for creating PX-files (the input for a PX-web StatBank). It also contains
-more general files about reading data to R and different topics,
-but all with the aim to create PX-files later.
+The book contains different guides on how to use R to set up a workflow for creating PX-files (the input for a PX-web StatBank). It also contains more general files about reading data to R and different topics, but all with the aim to create PX-files later.
 
 The book was initially created for a mission from Statistics Denmark to The National Institute of Statistics of Rwanda (NISR) about PXweb and R. The examples used may therefore be specific for the situation of NISR. Please note that the book is still a draft, but is open for contributions.
