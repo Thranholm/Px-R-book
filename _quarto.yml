@@ -6,7 +6,7 @@ execute:
   freeze: auto
 
 book:
-  title: "PX-files and R"
+  title: "PX and R"
   author: "Emil Thranholm"
   chapters: 
     - index.qmd

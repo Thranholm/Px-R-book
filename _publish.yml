@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 3c2145ec-ef14-41bc-8e10-8a72b582cfe6
+      url: https://thranholm.quarto.pub/px-and-r
