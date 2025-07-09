@@ -1,0 +1,26 @@
+project:
+  type: book
+  output-dir: _book
+
+execute: 
+  freeze: auto
+
+book:
+  title: "PX-files and R"
+  author: "Emil Thranholm"
+  chapters: 
+    - index.qmd
+    - introduction.qmd
+    - import_data.qmd
+    - px_files_in_R.qmd
+    - px_from_scratch.qmd
+    - px_update_files.qmd
+    - px_files_time.qmd
+    - px_files_code.qmd
+    - px_multi_lingual.qmd
+    - px_validate_api.qmd
+    - px_large_data.qmd
+  
+format:
+  html:
+    theme: cosmo
