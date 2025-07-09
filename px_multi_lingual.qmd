@@ -105,7 +105,6 @@ Rather than using R to translate our PX-file via code, we can easily export our 
 For exporting to Excel, we use `px_save()`, and since the data cannot be translated — only the metadata (value labels, names, etc.) — we set the argument `save_data = FALSE`. This might be particularly helpful if we have a large PX-file with lots of data. For the file in this example, it does not make a big difference whether or not to include the data.
 
 ```{r}
-#| eval: false
 
 px("lfs_tab1.px") %>% 
   px_language("en") %>% 
