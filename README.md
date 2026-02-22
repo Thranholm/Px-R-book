@@ -11,7 +11,7 @@ Institute of Statistics of Rwanda. The book is open for contributions.
 
 ## How to contribute
 
-TODO: Placeholder... text on contributions....
+Please contribute by forking the repository and making a pull request with your changes. Everything in the book is open for change.
 
 
 
