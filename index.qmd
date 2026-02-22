@@ -6,3 +6,9 @@ format: html
 The book contains different guides on how to use R to set up a workflow for creating PX-files (the input for a PX-web StatBank). It also contains more general files about reading data to R and different topics, but all with the aim to create PX-files later.
 
 The book was initially created for a mission from Statistics Denmark to The National Institute of Statistics of Rwanda (NISR) about PXweb and R. The examples used may therefore be specific for the situation of NISR. Please note that the book is still a draft, but is open for contributions.
+
+## Contributions
+
+The book is open for contributions to make it even easier to work with PX-web. To contribute, please go to the book's github repository (github logo top right corner or under navigation menu), fork the repo and open a pull request with your changes.
+
+Every change is very welcome! Currently the book has been limited to R integration with PX-web, but other contributions are also very welcome (we'll work on the book title later).

@@ -8,6 +8,13 @@ execute:
 book:
   title: "PX and R"
   author: "Emil Thranholm"
+  search: true
+  repo-url: https://github.com/Thranholm/Px-R-book
+  repo-actions: [edit, source, issue]
+  sharing: linkedin
+  navbar: 
+    background: light
+        
   chapters: 
     - index.qmd
     - introduction.qmd
